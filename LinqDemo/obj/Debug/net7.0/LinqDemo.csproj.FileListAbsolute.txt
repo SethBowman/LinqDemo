@@ -1,0 +1,15 @@
+C:\Users\brand\OneDrive\Desktop\repos2\LinqDemo\LinqDemo\bin\Debug\net7.0\LinqDemo.exe
+C:\Users\brand\OneDrive\Desktop\repos2\LinqDemo\LinqDemo\bin\Debug\net7.0\LinqDemo.deps.json
+C:\Users\brand\OneDrive\Desktop\repos2\LinqDemo\LinqDemo\bin\Debug\net7.0\LinqDemo.runtimeconfig.json
+C:\Users\brand\OneDrive\Desktop\repos2\LinqDemo\LinqDemo\bin\Debug\net7.0\LinqDemo.dll
+C:\Users\brand\OneDrive\Desktop\repos2\LinqDemo\LinqDemo\bin\Debug\net7.0\LinqDemo.pdb
+C:\Users\brand\OneDrive\Desktop\repos2\LinqDemo\LinqDemo\obj\Debug\net7.0\LinqDemo.csproj.AssemblyReference.cache
+C:\Users\brand\OneDrive\Desktop\repos2\LinqDemo\LinqDemo\obj\Debug\net7.0\LinqDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\brand\OneDrive\Desktop\repos2\LinqDemo\LinqDemo\obj\Debug\net7.0\LinqDemo.AssemblyInfoInputs.cache
+C:\Users\brand\OneDrive\Desktop\repos2\LinqDemo\LinqDemo\obj\Debug\net7.0\LinqDemo.AssemblyInfo.cs
+C:\Users\brand\OneDrive\Desktop\repos2\LinqDemo\LinqDemo\obj\Debug\net7.0\LinqDemo.csproj.CoreCompileInputs.cache
+C:\Users\brand\OneDrive\Desktop\repos2\LinqDemo\LinqDemo\obj\Debug\net7.0\LinqDemo.dll
+C:\Users\brand\OneDrive\Desktop\repos2\LinqDemo\LinqDemo\obj\Debug\net7.0\refint\LinqDemo.dll
+C:\Users\brand\OneDrive\Desktop\repos2\LinqDemo\LinqDemo\obj\Debug\net7.0\LinqDemo.pdb
+C:\Users\brand\OneDrive\Desktop\repos2\LinqDemo\LinqDemo\obj\Debug\net7.0\LinqDemo.genruntimeconfig.cache
+C:\Users\brand\OneDrive\Desktop\repos2\LinqDemo\LinqDemo\obj\Debug\net7.0\ref\LinqDemo.dll
